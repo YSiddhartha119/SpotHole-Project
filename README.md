@@ -17,7 +17,7 @@ The project uses Convolutional Neural Networks (CNNs) to identify potholes in im
 
 ## 🛠️ Installation
 
-To get started with SpotHole, follow these steps:
+To get started with SpotHole-Project, follow these steps:
 
 ### 1. Clone the repository
 ```bash
